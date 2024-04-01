@@ -1,10 +1,10 @@
 # Sales-Analysis-SQL-Practice-MySQL-
-About    
+**About**    
   The objective of this analysis is to provide stakeholders with actionable insights derived from the superstore sales data. By leveraging MySQL, users can perform in-depth analysis to understand various aspects of the business and drive informed decision-making.The datset eas pbtained from Kaggle Superstores sales analysis.
     
   Provide a brief overview of the dataset used in the analysis. Mention the size of the dataset, the timeframe it covers, and the different dimensions and metrics included, such as product categories, order dates, customer details, regions, Payment mode, etc. 
 
-Purpose    
+**Purpose**    
   The purpose of this dataset is to analyze sales transactions within a superstore, providing insights into customer behavior, product performance, and profitability to inform strategic decision-making and improve business operations.
 
 **About data**    
